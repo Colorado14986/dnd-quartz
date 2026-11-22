@@ -110,7 +110,7 @@ plugins:
       theme: default
       mode: both
   - source: "@quartz-community/explicit-publish"
-    enabled: false
+    enabled: true
   - source: "@quartz-community/unlisted-pages"
     enabled: true
     options: {}
